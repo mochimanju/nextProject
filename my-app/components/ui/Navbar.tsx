@@ -12,6 +12,7 @@ export default function Navbar() {
         { label: 'Home', path: '/' },
         { label: 'Example', path: '/example' },
         { label: 'todo List', path: '/todoList' },
+        { label: 'API', path: '/api' },
     ]
 
     return (
